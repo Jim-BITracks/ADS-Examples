@@ -1,1 +1,1 @@
-# ADS-Examples
+# SQL Saturday Cincinnati (2020)
